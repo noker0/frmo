@@ -1,0 +1,73 @@
+.text{
+    text-align: center;
+}
+.p1{
+    background: greenyellow;
+    color: green;
+    font-weight: bold;
+    font-size: 18   px;   
+}
+.pp1{
+    display: flex;
+    justify-content: center;
+}
+.p2{
+    font-weight: bold;
+    font-size: 30px;
+}
+.p3{
+    width: 60%;
+}
+.pp3{
+    display: flex;
+    justify-content: center;
+}
+.boxes{
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 50px;
+    gap: 150px;
+}
+.icon{
+    background: rgb(98, 222, 41);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    text-align: center;
+    width: 150px;
+}
+.boix{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+.email{
+    margin-bottom: 5px;
+    font-size: 25px;
+}
+.link{
+    color: gray;
+    text-decoration: underline 1px gray;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+.rm{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.rm:hover{
+    transition: 0.5s;
+    translate: -5px -5px;
+}

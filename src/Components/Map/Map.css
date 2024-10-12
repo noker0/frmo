@@ -1,0 +1,9 @@
+.content{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
+.context{
+    display: flex;
+    justify-content: center;
+}
